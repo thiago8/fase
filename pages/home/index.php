@@ -77,7 +77,10 @@ include(BASE_INCLUDES . DS . 'inc.menu.php');
 						Acessar  <i class="fa fa-arrow-circle-right"></i>
 					</a>
 				</div>
-			</div><!-- ./col -->
+			</div><!-- ./col -->			
+		</div><!-- /.row -->
+		
+		<div class="row">			
 			<div class="col-lg-3 col-xs-6">
 				<!-- small box -->
 				<div class="small-box bg-red">
@@ -97,34 +100,13 @@ include(BASE_INCLUDES . DS . 'inc.menu.php');
 					</a>
 				</div>
 			</div><!-- ./col -->
-		</div><!-- /.row -->
-		
-		<div class="row">
-			<div class="col-lg-3 col-xs-6">
-				<!-- small box -->
-				<div class="small-box bg-aqua">
-					<div class="inner">
-						<h3>
-							5
-						</h3>
-						<p>
-							TWITTER
-						</p>
-					</div>
-					<div class="icon">
-						<i class="ion ion-social-twitter"></i>
-					</div>
-					<a href="<?php echo BASE_URL ?>/twitter/" class="small-box-footer">
-						Acessar  <i class="fa fa-arrow-circle-right"></i>
-					</a>
-				</div>
-			</div><!-- ./col -->
+			
 			<div class="col-lg-3 col-xs-6">
 				<!-- small box -->
 				<div class="small-box bg-maroon">
 					<div class="inner">
 						<h3>
-							6
+							5
 						</h3>
 						<p>
 							DOCUMENTOS
@@ -138,110 +120,13 @@ include(BASE_INCLUDES . DS . 'inc.menu.php');
 					</a>
 				</div>
 			</div><!-- ./col -->
-			<div class="col-lg-3 col-xs-6">
-				<!-- small box -->
-				<div class="small-box bg-light-blue">
-					<div class="inner">
-						<h3>
-							7
-						</h3>
-						<p>
-							ANALYTICS
-						</p>
-					</div>
-					<div class="icon">
-						<i class="ion ion-monitor"></i>
-					</div>
-					<a href="<?php echo BASE_URL ?>/analytics/" class="small-box-footer">
-						Acessar  <i class="fa fa-arrow-circle-right"></i>
-					</a>
-				</div>
-			</div><!-- ./col -->
-			<div class="col-lg-3 col-xs-6">
-				<!-- small box -->
-				<div class="small-box bg-lime">
-					<div class="inner">
-						<h3>
-							8
-						</h3>
-						<p>
-							EMAIL
-						</p>
-					</div>
-					<div class="icon">
-						<i class="ion ion-email"></i>
-					</div>
-					<a href="<?php echo BASE_URL ?>/email/" class="small-box-footer">
-						Acessar  <i class="fa fa-arrow-circle-right"></i>
-					</a>
-				</div>
-			</div><!-- ./col -->
-		</div><!-- /.row -->
-		
-		<div class="row">
-			<div class="col-lg-3 col-xs-6">
-				<!-- small box -->
-				<div class="small-box bg-red">
-					<div class="inner">
-						<h3>
-							9
-						</h3>
-						<p>
-							YOUTUBE
-						</p>
-					</div>
-					<div class="icon">
-						<i class="ion ion-social-youtube"></i>
-					</div>
-					<a href="<?php echo BASE_URL ?>/youtube/" class="small-box-footer">
-						Acessar  <i class="fa fa-arrow-circle-right"></i>
-					</a>
-				</div>
-			</div><!-- ./col -->
-			<div class="col-lg-3 col-xs-6">
-				<!-- small box -->
-				<div class="small-box bg-orange">
-					<div class="inner">
-						<h3>
-							10<sup style="font-size: 20px">%</sup>
-						</h3>
-						<p>
-							CALENDÁRIO
-						</p>
-					</div>
-					<div class="icon">
-						<i class="ion ion-calendar"></i>
-					</div>
-					<a href="<?php echo BASE_URL ?>/calendario/" class="small-box-footer">
-						Acessar  <i class="fa fa-arrow-circle-right"></i>
-					</a>
-				</div>
-			</div><!-- ./col -->
-			<div class="col-lg-3 col-xs-6">
-				<!-- small box -->
-				<div class="small-box bg-olive">
-					<div class="inner">
-						<h3>
-							11
-						</h3>
-						<p>
-							CHAT
-						</p>
-					</div>
-					<div class="icon">
-						<i class="ion ion-chatbox"></i>
-					</div>
-					<a href="<?php echo BASE_URL ?>/chat/" class="small-box-footer">
-						Acessar  <i class="fa fa-arrow-circle-right"></i>
-					</a>
-				</div>
-			</div><!-- ./col -->
+			
 			<div class="col-lg-3 col-xs-6">
 				<!-- small box -->
 				<div class="small-box bg-purple">
 					<div class="inner">
 						<h3>
-							12
+							6
 						</h3>
 						<p>
 							CONFIGURAÇÕES
@@ -255,6 +140,7 @@ include(BASE_INCLUDES . DS . 'inc.menu.php');
 					</a>
 				</div>
 			</div><!-- ./col -->
+			
 		</div><!-- /.row -->
 		
 	</section><!-- /.content -->
