@@ -63,25 +63,7 @@
                             <a href="#">
                                 <i class="fa fa-file"></i> <span>Documentos</span>
                             </a>
-                        </li>
-                        <li class="treeview">
-                            <a href="#">
-                                <i class="fa fa-comment"></i> <span>Chat</span>
-								<small class="badge pull-right bg-green">3</small>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="<?php echo BASE_URL ?>/calendario/">
-                                <i class="fa fa-calendar"></i> <span>Calendário</span>
-                                <small class="badge pull-right bg-red">3</small>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="<?php echo BASE_URL ?>/email/">
-                                <i class="fa fa-envelope"></i> <span>E-mail</span>
-                                <small class="badge pull-right bg-yellow">12</small>
-                            </a>
-                        </li>
+                        </li>                        
                         <li class="treeview">
                             <a href="#">
                                 <i class="fa fa-cogs"></i> <span>Configurações</span>
@@ -92,6 +74,7 @@
                                 <li><a href="<?php echo BASE_URL ?>/modulos/"><i class="fa fa-angle-double-right"></i> Módulos</a></li>
                                 <li><a href="<?php echo BASE_URL ?>/acoes/"><i class="fa fa-angle-double-right"></i> Ações</a></li>
                                 <li><a href="<?php echo BASE_URL ?>/usuario/"><i class="fa fa-angle-double-right"></i> Usuários</a></li>
+								<li><a href="<?php echo BASE_URL ?>/login/logout.php"><i class="fa fa-angle-double-right"></i> Sair</a></li>
                             </ul>
                         </li>
                     </ul>
